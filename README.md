@@ -1,4 +1,8 @@
+<div align="center">
+
 ![pyqt-tutorial-logo](./img/pyqt-tutorial.png)
+
+</div>
 
 ---
 
