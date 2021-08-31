@@ -1,7 +1,5 @@
 ## What is PyQt?
 
-PyQt is a Python binding of the cross-platform GUI toolkit Qt, used as a Python module.
-
 It is a free software originally designed by Riverbank Computing, it is accessible via similar terms to Qt versions older than 4.5, signifying that a wide array of licenses such as `General Public License` are supported, yet unlike Qt, PyQt cannot be used with `LGPL`.
 
 - **`PyQt` can be used with**:
