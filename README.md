@@ -1,2 +1,6 @@
-# pyqt-tutorial
-basic guide to introduce to you the most awesome python graphical interface
+![pyqt-tutorial-logo](./img/pyqt-tutorial.png)
+
+---
+
+&copy; 2021 Nurul Carvalho \
+[BSD-3-Clause License](./LICENSE)
