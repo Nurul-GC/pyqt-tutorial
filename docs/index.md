@@ -1,8 +1,4 @@
-<div align="center">
-
 ![pyqt-logo](https://github.com/Nurul-GC/pyqt-tutorial/raw/main/docs/img/pyqt.png)
-
-</div>
   
 ## Content
 
