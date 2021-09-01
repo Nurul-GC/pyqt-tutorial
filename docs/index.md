@@ -1,15 +1,36 @@
+## Content
 
-- English:
-  - PyQt is a Python binding of the cross-platform GUI toolkit Qt, used as a Python module.
+- Introduction
+- What is PyQt?
+- PyQt window
+- PyQt Hello World
+- PyQt label
+- PyQt button
+- QLineEdit
+- QTextEdit
+- PyQt Message box
+- PyQt events
+- PyQt tooltip
+- PyQt box layout
+- PyQt grid layout
+- PyQt progressbar
+- PyQt input dialog
+- QDockWidget
+- QListWidget
+- QTimer
+- QButtonGroup
+- PyQt gif
 
-- Portugues:
-  - PyQt é uma vinculação Python do kit de ferramentas Qt para interface de usuário, multi plataforma, usado como um módulo Python.
+## Introduction 
 
-## English Introduction to [Qt](https://www.qt.io/)
-
-    Qt is a full development framework with tools designed to streamline the creation
-    of applications and user interfaces for desktop, embedded, and mobile platforms.
+### - English of [`Qt`](https://www.qt.io/):
+  
+- PyQt is a Python binding of the cross-platform GUI toolkit Qt, used as a Python module.
+  
+- Qt is a full development framework with tools designed to streamline the creation of applications and user interfaces for desktop, embedded, and mobile platforms.
     
+Composed by:
+
     Qt Framework
     Intuitive APIs[1] for C++[2] and JavaScript-like programming with Qt Quick[3] for rapid UI creation.
     
@@ -29,11 +50,14 @@
     Licensed under the GNU Free Documentation License, Version 1.3.
     <https://doc.qt.io/qt-6.1/index.html>
 
-## Introdução portuguesa ao [Qt](https://www.qt.io/)
+### Portuguesa do [`Qt`](https://www.qt.io/):
 
-    Qt é um framework de desenvolvimento completo com ferramentas projetadas para agilizar a criação
-    de aplicativos e interfaces de usuário para plataformas desktop, embarcadas e móveis.
-    
+- O PyQt é uma vinculação Python do kit de ferramentas Qt para interface de usuário, multi plataforma, usado como um módulo Python.
+
+- Ja o Qt é um framework de desenvolvimento completo com ferramentas projetadas para agilizar a criação de aplicativos e interfaces de usuário para plataformas desktop, embarcadas e móveis.
+
+Composto por:
+
     - Qt Framework
     APIs[1] intuitivas para C++[2] e programação semelhante a JavaScript com Qt Quick[3] para criação rápida de UI.
     
