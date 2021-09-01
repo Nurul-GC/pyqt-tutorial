@@ -74,11 +74,11 @@
     O Qt Framework e as ferramentas estão disponíveis em licenças[10] de código aberto e comerciais.
     
     O Qt licenciado comercialmente contém funcionalidades adicionais
-    e ferramentas de produtividade. Para obter detalhes, consulte http://www.qt.io/download/
+    e ferramentas de produtividade. Para obter detalhes, consulte <http://www.qt.io/download/>.
     
     © The Qt Company Ltd
     Licenciado sob a GNU Free Documentation License, Versão 1.3.
-    https://doc.qt.io/qt-6.1/index.html
+    <https://doc.qt.io/qt-6.1/index.html>
 
 ## Ref.
 
