@@ -1,6 +1,6 @@
 <div align="center">
 
-![pyqt-logo](img/pyqt.png)
+![pyqt-logo](https://github.com/Nurul-GC/pyqt-tutorial/raw/main/docs/img/pyqt.png)
 
 </div>
   
