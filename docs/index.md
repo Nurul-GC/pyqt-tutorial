@@ -1,3 +1,9 @@
+<div align="center">
+
+![pyqt-logo](img/pyqt.png)
+
+</div>
+  
 ## Content
 
 - Introduction
@@ -29,7 +35,7 @@
   
 - Qt is a full development framework with tools designed to streamline the creation of applications and user interfaces for desktop, embedded, and mobile platforms.
     
-Composed by:
+**Composed by**:
 
     Qt Framework
     Intuitive APIs[1] for C++[2] and JavaScript-like programming with Qt Quick[3] for rapid UI creation.
@@ -50,13 +56,13 @@ Composed by:
     Licensed under the GNU Free Documentation License, Version 1.3.
     <https://doc.qt.io/qt-6.1/index.html>
 
-### Portuguesa do [`Qt`](https://www.qt.io/):
+### - Portuguesa do [`Qt`](https://www.qt.io/):
 
 - O PyQt é uma vinculação Python do kit de ferramentas Qt para interface de usuário, multi plataforma, usado como um módulo Python.
 
 - Ja o Qt é um framework de desenvolvimento completo com ferramentas projetadas para agilizar a criação de aplicativos e interfaces de usuário para plataformas desktop, embarcadas e móveis.
 
-Composto por:
+**Composto por**:
 
     - Qt Framework
     APIs[1] intuitivas para C++[2] e programação semelhante a JavaScript com Qt Quick[3] para criação rápida de UI.
@@ -91,7 +97,7 @@ Composto por:
 9. <https://devdocs.io/qt~5.15/cmake-manual>
 10. <https://doc.qt.io/qt-5.15/licensing.html>
 
-_**Obs**: Documentacao apenas em ingles!_
+_**Obs**: Documentação apenas em inglês!_
 
 ---
 
